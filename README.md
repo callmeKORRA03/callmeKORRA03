@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamkorra03" target="blank"><img src="https://img.shields.io/twitter/follow/iamkorra03?logo=twitter&style=for-the-badge" alt="iamkorra03" /></a> </p>
 
-- 🌱 I’m currently learning **Software Engineering in alx**
+- 🌱 I’m currently learning **Software Engineering at alx**
 
 - 💬 Ask me about **Artificial Intelligence, Mobile App Development, Software Engineering**
 
